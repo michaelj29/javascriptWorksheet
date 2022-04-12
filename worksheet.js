@@ -1,0 +1,2 @@
+
+dayOfTheWeek = 'Monday';
